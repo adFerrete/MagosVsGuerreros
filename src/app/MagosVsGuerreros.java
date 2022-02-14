@@ -19,6 +19,8 @@ public class MagosVsGuerreros {
 		
 		partida.Lucha(); //muestro el menu de seleccion (switch) y la lucha
 		
+		System.out.println("esto es un cambio");
+		
 		
 
 	}
